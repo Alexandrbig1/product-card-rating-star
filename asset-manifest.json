@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/product-card-rating-star/static/css/main.f587f0c8.css",
+    "main.js": "/product-card-rating-star/static/js/main.c7be8401.js",
+    "static/media/bg.jpg": "/product-card-rating-star/static/media/bg.bcfde3e237d58561e111.jpg",
+    "index.html": "/product-card-rating-star/index.html",
+    "main.f587f0c8.css.map": "/product-card-rating-star/static/css/main.f587f0c8.css.map",
+    "main.c7be8401.js.map": "/product-card-rating-star/static/js/main.c7be8401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f587f0c8.css",
+    "static/js/main.c7be8401.js"
+  ]
+}
